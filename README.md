@@ -1,9 +1,7 @@
 
-# Warden's Threshold
+# Warden’s Threshold
 
 Warden's Threshold is an autonomous chatbot designed to retrieve data from APIs and provide intelligent responses.
-
-# Warden’s Threshold
 
 Description
 Warden’s Threshold is a symbolic and conceptual representation of transformation, guidance, and the pursuit of growth. It serves as a boundary and a bridge, standing at the intersection of the known and the unknown. This concept embodies the idea of stepping beyond comfort zones, embracing change, and seeking what lies beyond the familiar. The Warden acts as a guardian, ensuring that only those prepared to evolve pass through the luminous gate of the Threshold.
